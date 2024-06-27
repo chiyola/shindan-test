@@ -56,8 +56,7 @@ const flowchart: Flow[] = [
     no: 5,
   },
   {
-    question:
-      '自分にとって大事な要素は、幸せになれるようなことをするよりも自分の利益になるようなことをする。',
+    question: '他人の幸せよりも、自分の幸せを選ぶ？',
     yes: 6,
     no: 3,
   },
@@ -67,27 +66,27 @@ const flowchart: Flow[] = [
     no: 7,
   },
   {
-    question: '学校に着ていく服は制服より私服がいい',
+    question: '学校に着ていく服は、制服よりも私服がいい？',
     yes: results.myanmar,
     no: 5,
   },
   {
-    question: '服に特にこだわりはなく、使い古した服でも着ることができる',
+    question: '服に特にこだわりはなく、使い古した服でも着ることができる？',
     yes: results.india,
     no: 7,
   },
   {
-    question: '落ち着いた色より明るい色のほうがすき',
+    question: '落ち着いた色より明るい色のほうが好き？',
     yes: 7,
     no: 8,
   },
   {
-    question: 'オレンジより黄色のほうが好き',
+    question: '他人のほうが必要そうだったら、いい機会を譲ってもよい？',
     yes: results.vietnam,
     no: results.china,
   },
   {
-    question: '白黒より鮮やかな色が好き',
+    question: '一人で考え事をするのが好き？',
     yes: results.tibet,
     no: results.japan,
   },
